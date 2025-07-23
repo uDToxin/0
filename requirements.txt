@@ -1,5 +1,5 @@
 aiofiles
-aiohttp==3.8.4
+aiohttp
 asyncio
 dnspython
 ffmpeg-python
@@ -7,14 +7,13 @@ gitpython
 hachoir
 heroku3
 lyricsgenius
-motor=3.0.0
+motor>=3.6.0
 pillow==9.5.0
 psutil
-py-tgcalls==1.0.2
+py-tgcalls
 pykeyboard
-pyrogram==1.4.16
+pyrogram
 python-dotenv
-PyYAML>=5.3.1
 requests
 speedtest-cli
 spotipy
